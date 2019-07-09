@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Dice Roller Kotlin</string>
+    <string name="roll_label">roll</string>
 </resources>
